@@ -8,7 +8,7 @@ This project is a rhythm game similar to the popular game **Piano Tiles**. The p
 
 ## Demo
 
-[![Watch the demo on YouTube](https://youtu.be/uGMkfiVsFEI?si=11Py5nA0QrjblvNw)](https://youtu.be/uGMkfiVsFEI?si=11Py5nA0QrjblvNw)
+[Watch the demo on YouTube](https://youtu.be/uGMkfiVsFEI?si=11Py5nA0QrjblvNw)
 
 ## Features
 
